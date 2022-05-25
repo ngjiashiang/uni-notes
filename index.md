@@ -1,7 +1,7 @@
 # Notes
 
 I'm only providing notes for some core computing subjects and electives that I have taken.
-I'm making this because I need to test my understanding on the subjects I have taken.
+I'm making this because I need to test my understanding.
 
 *If you can't explain it simply, you don't understand it well enough.* - Albert Einstein
 
